@@ -3,6 +3,32 @@
 /*    property:value ;                this is WHAT : HOW to be changed */
 /* }  */
 
+               /* TAG SELECTORS */
+
+/* h1{
+    color: red;
+    font-size: 150px ;
+} */
+
+
+                /* CLASS SELECTORS */
+
+.pizza{
+    background-color:greenyellow ;
+}
+.broccoli{
+    background-color: red;
+}
+.circular{
+    border-radius:40% ;
+}
+
+                /* ID SELECTORS */
+
+#heading{
+    color: brown;
+}
+
 body{
     background-color: #FFFDE1;
 }
@@ -14,8 +40,9 @@ hr{
   border-color:#51EAEA ;
   border-width: 5px;
 }
-img{
+img :hover{
   height: 200px;
+ 
 }
 h1{
     color: #FB3569;
