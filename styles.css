@@ -1,3 +1,8 @@
+/* syntax for any css object is  */
+/* selector{                          this is our WHO is to be changed */
+/*    property:value ;                this is WHAT : HOW to be changed */
+/* }  */
+
 body{
     background-color: #FFFDE1;
 }
@@ -14,7 +19,9 @@ img{
 }
 h1{
     color: #FB3569;
+    font-size: 75px;
 }
 h3{
     color: #FB3569;
+    font-size: x-large;
 }
