@@ -8,11 +8,11 @@ body{
 }
 
 hr{
+  width: 20%;
   border-style: none;
   border-top-style: dotted ;
   border-color:#51EAEA ;
   border-width: 5px;
-  width: 20%;
 }
 img{
   height: 200px;
